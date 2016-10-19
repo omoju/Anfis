@@ -3,7 +3,13 @@
 
 
 
-The anfis network is a superset of all feedforward neural networks using either a simple back propagation gradient descent learning rule, or a hybrid learning rule that uses back propagation and a least-squares method. This project presents a supervised learning application for breast cancer classification.
+## Project Overview
+
+This project presents a supervised learning application for breast cancer classification using an adaptive neuro fuzzy inference systems on a nine attribute dataset. A series of five experiments were carried out on the dataset to approximate an adequate condition for classification. 
+
+## Analysis
+The analysis of the project is in the file named[anfis_breast_cancer_classification_report.pdf](anfis_breast_cancer_classification_report.pdf)
+
 
 ## Install
 
